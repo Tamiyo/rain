@@ -1,3 +1,3 @@
 # rain
 
-Esoteric Programming Language that takes encoded images and interprets them as Branflake instructions
+Esoteric Programming Language that interprets encoded images and generates Branflake instructions
